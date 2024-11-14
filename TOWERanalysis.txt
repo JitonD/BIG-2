@@ -50,7 +50,7 @@ To pause Chat mobile notifications while you’re active on this device, allow y
 </p>
 
 <body>
-<img src=“C:\Users\DAVIDSONJS\Desktop\Picture5.png" style="width:300px;height:200px;"/>
+<img src=“bigview1.jpeg" style="width:300px;height:200px;"/>
 </body>
 
 <p>While looking for good images on my phone, I inadvertently discovered that The Tower site is better adaptable to small screen formats. The page is designed with student-on-the-go simplicity when viewed on a cell phone screen, which is the device of choice for college-aged learners and users. While the placement of the archive is problematic in both small and large-screen formats, on a cell phone the design is logical. 
